@@ -2,6 +2,7 @@
     margin: 0;
     font-family: 'Open Sans', sans-serif;
 }
+
 .banner-container{
     width: 100%;
     height: 100vh;
@@ -25,8 +26,41 @@
     text-align: right;
     margin-left: 50rem;
 }
+.btn-color{
+    
+background: #F15B22;
+border-radius: 5px;
+color: #FFFFFF;
+padding: 15px 25px;
+font-size: 20px;
+}
 
 /* main  */
+
+main{
+    /* max-width: 1140px;
+    margin: 0 auto; */
+}
+/* My plan styles  */
+
+.about{
+  margin-top: 130px;
+  background-color: #fff8f3;
+  text-align: center;
+  padding: 130px 150px;
+}
+.section-title{
+    
+    margin-bottom: 30px;
+    font-size: 35px;
+   font-weight: 700;
+   margin-bottom: 30px;
+}
+
+.section-discription{
+
+}
+
 
 section{
     display: flex;
@@ -43,5 +77,15 @@ section{
     width: 90%;
     padding: 130px 200px;
 }
+.contact{
+    display: flex;
+    gap: 100px;
+    background: #151414;
+    padding: 130px 200px;
+    color: white;
+}
 
 
+
+  
+  
